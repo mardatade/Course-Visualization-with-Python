@@ -1,0 +1,14 @@
+pandas
+bokeh
+matplotlib
+plotly
+
+hvplot
+# for bokeh
+selenium
+
+altair
+numpy
+holoviews
+
+seaborn
