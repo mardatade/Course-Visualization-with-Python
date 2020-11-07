@@ -1,0 +1,14 @@
+name: py3_course
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - bokeh
+  - matplotlib
+  - plotly
+  - hvplot
+  - selenium
+  - altair
+  - numpy
+  - holoviews
+  - seaborn
