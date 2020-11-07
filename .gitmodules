@@ -1,5 +1,3 @@
 [submodule "python_plots"]
 	path = python_plots
-	url = git@gitlab.com:GitPrinz/python_plots.git
-[submodule "python_plots/"]
 	url = https://gitlab.com/GitPrinz/python_plots
