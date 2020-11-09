@@ -1,14 +1,20 @@
 pandas
 bokeh
 matplotlib
+numpy
+holoviews
+seaborn
+plotnine
+
 plotly
+# for static images
+psutil
 
 hvplot
-# for bokeh
+# for bokeh renderer
 selenium
 
 altair
-numpy
-holoviews
+# for static saving: https://github.com/altair-viz/altair_saver/
+altair_saver
 
-seaborn
