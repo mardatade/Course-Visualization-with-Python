@@ -2,14 +2,23 @@
 
 Course materials on visualization with Python
 
+- Basic Examples
+  - Data Preperation
+  - Scatter and Line Plot (colored, labeled)
+  - Annotation
+  - Visualization
+  - Save (interactive/static)
 - Links to Gallery
 
-## Example for Plotting
+## Concept Overview
 
-- [Altair](plot_altair.ipynb)
-- [Bokeh](plot_bokeh.ipynb)
-- [ggplot](plot_ggplot.ipynb)
-- [HoloViews](plot_holoviews.ipynb)
-- [Matplotlib](plot_matplotlib.ipynb)
-- [Plotly](plot_matplotlib.ipynb)
-- [Seaborn](plot_seaborn.ipynb)
+| Package                             | Data      | Main Object    | Interactive |
+| ----------------------------------- | --------- | -------------- | ----------- |
+| [Altair](plot_altair.ipynb)         | DataFrame | Glyph          | Minimal     |
+| [Bokeh](plot_bokeh.ipynb)           | Variable  | Figure         | Yes         |
+| [ggplot](plot_ggplot.ipynb)         | DataFrame | Figure + Glyph | No          |
+| [HoloViews](plot_holoviews.ipynb)   | Variable  | Glyph          | Bokeh, ...  |
+| [hvPlot](plot_hvplot.ipynb)         | DataFrame | Glyph          | Bokeh, ...  |
+| [Matplotlib](plot_matplotlib.ipynb) | Direct    | Figure         | No          |
+| [Plotly](plot_matplotlib.ipynb)     | Variable  | Figure         | Yes         |
+| [Seaborn](plot_seaborn.ipynb)       | DataFrame | ?              | No          |
