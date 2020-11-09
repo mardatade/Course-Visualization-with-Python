@@ -1,5 +1,7 @@
 # Course: Visualization with Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mardatade/Course-Visualization-with-Python/HEAD)
+
 Course materials on visualization with Python
 
 - Basic Examples
