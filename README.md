@@ -4,13 +4,14 @@
 
 Course materials on visualization with Python
 
+- Links to Gallery
 - Basic Examples
   - Data Preperation
   - Scatter and Line Plot (colored, labeled)
   - Annotation
   - Visualization
+  - Layout
   - Save (interactive/static)
-- Links to Gallery
 
 ## Concept Overview
 
