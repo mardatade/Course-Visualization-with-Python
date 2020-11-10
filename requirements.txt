@@ -6,10 +6,6 @@ holoviews
 seaborn
 plotnine
 
-plotly
-# for static images
-psutil
-
 hvplot
 # for bokeh renderer
 selenium
@@ -18,3 +14,6 @@ altair
 # for static saving: https://github.com/altair-viz/altair_saver/
 altair_saver
 
+plotly
+# for static images
+psutil
