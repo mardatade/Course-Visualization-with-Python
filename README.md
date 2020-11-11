@@ -13,6 +13,11 @@ Course materials on visualization with Python
   - Layout
   - Save (interactive/static)
 
+## ToDo
+- [ ] revert axis
+- [ ] pdf output
+- [ ] ggplot: Labels
+
 ## Concept Overview
 
 | Package                             | Data      | Main Object    | Interactive |
