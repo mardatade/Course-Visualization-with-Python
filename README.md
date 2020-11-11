@@ -25,3 +25,7 @@ Course materials on visualization with Python
 | [Matplotlib](plot_matplotlib.ipynb) | Direct    | Figure         | No          |
 | [Plotly](plot_matplotlib.ipynb)     | Variable  | Figure         | Yes         |
 | [Seaborn](plot_seaborn.ipynb)       | DataFrame | ?              | No          |
+
+## Further Material
+
+[YouTube: Jake VanderPlas - How to Think about Data Visualization - PyCon 2019](https://www.youtube.com/watch?v=vTingdk_pVM)
